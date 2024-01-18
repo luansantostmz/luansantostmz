@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Luan Santos</h1>
+<h1 align="center">Hi, I'm Luan Santos!</h1>
 <h3 align="center">I am a GameDev who loves what he does.</h3>
 
 - I participated in this project for 1 year, contributing to the creation of some features for the metaverse and various minigames. [Virtual.Town](https://virtual.town/virtualtown/)
